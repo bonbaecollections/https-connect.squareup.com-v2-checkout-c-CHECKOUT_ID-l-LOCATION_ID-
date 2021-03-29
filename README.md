@@ -1,0 +1,1 @@
+# https-connect.squareup.com-v2-checkout-c-CHECKOUT_ID-l-LOCATION_ID-
